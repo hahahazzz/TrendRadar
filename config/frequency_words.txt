@@ -1,5 +1,16 @@
-胖东来
-于东来
+国际局势
+
+国务院
+外交部
+
+航母
+导弹
+驱逐舰
+防空
+武器
+核弹
+
+手机
 
 DeepSeek
 梁文锋
@@ -40,8 +51,6 @@ DJI
 刘慈欣
 郭帆
 
-申奥
-
 京东
 刘强东
 
@@ -59,12 +68,18 @@ Microsoft
 NVIDIA
 黄仁勋
 
+cpu
+
 AMD
+
+英特尔
+intel
 
 谷歌
 google
 gemini
 deepmind
+Android
 
 chatgpt
 openai
@@ -72,6 +87,9 @@ sora
 
 claude
 Anthropic
+
+阿里
+Qwen3
 
 iphone
 ipad
@@ -97,6 +115,7 @@ ai
 光刻机
 
 科技
+IT
 
 核能
 
@@ -111,3 +130,6 @@ ai
 宇宙
 飞船
 航空
+彗星
+UFO
+航天
